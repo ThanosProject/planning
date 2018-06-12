@@ -1,3 +1,5 @@
+//this is a mbed code we used on the nucleo401RS to move the top of the 4 fingers 
+
 #include "mbed.h"
 #include "PCA9685.h"
 
